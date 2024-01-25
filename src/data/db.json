@@ -1,0 +1,22 @@
+{
+  "trips": [
+    {
+      "id": 1,
+      "name": "Kalaw",
+      "price": 1000,
+      "location": "Myanmar"
+    },
+    {
+      "id": 2,
+      "name": "Mandalay",
+      "price": 5000,
+      "location": "Myanmar"
+    },
+    {
+      "id": 3,
+      "name": "Bangkok",
+      "price": 5000,
+      "location": "Thailand"
+    }
+  ]
+}
